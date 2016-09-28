@@ -1,0 +1,1 @@
+A Python web service using Falcon. Accepts plain text in a HTTP POST body which is then read by the Festival TTS engine.
